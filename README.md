@@ -1,4 +1,3 @@
-StudentHax Unblocker
 StudentHax Unblocker is a website designed to help students bypass web filters set up by schools or educational institutions. It allows students to access blocked websites and content that may be restricted on school computers or networks.
 
 How it works
